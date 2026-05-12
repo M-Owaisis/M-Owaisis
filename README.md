@@ -1,53 +1,39 @@
-<!-- Header image/typing effect -->
-<h1 align="center">Hi there, I'm Owais! 👋</h1>
-<h3 align="center">A passionate Software Developer & AI Enthusiast</h3>
+# Muhammad Owais
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-USERNAME" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="mailto:YOUR-EMAIL@example.com"><img align="center" src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="YOUR-PORTFOLIO-LINK" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" /></a>
-</p>
+**AI Engineer & Full-Stack Developer**
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg">
+Email: [muhammadowais7042@gmail.com](mailto:muhammadowais7042@gmail.com) | [LinkedIn](https://www.linkedin.com/in/muhammad-owais-0669362ab/)
 
-### 👨‍💻 About Me
-- 🔭 I’m currently working on **AI-driven healthcare applications (like DementiaNext)**
-- 🌱 I’m currently expanding my skills in **Deep Learning, Next.js, and scaling backends**
-- 💬 Ask me about **Python, Django, React, and Machine Learning**
-- ⚡ Fun fact: *I love solving complex problems and building things from scratch!*
+---
 
-### 🛠️ Tech Stack & Tools
+I am a Software Developer and AI Enthusiast focused on bridging the gap between complex machine learning models and scalable, user-facing applications. My work spans across architecting deep learning pipelines, natural language processing, and developing robust full-stack platforms.
 
-**Languages & Frameworks:**
+*   🚀 **Current Focus:** Training deep learning models, building intelligent RAG (Retrieval-Augmented Generation) architectures, and developing scalable full-stack web applications.
+*   🛠 **Core Competencies:** Deep Learning (GANs, Classification), RAG Pipeline Architecture, Computer Vision, and RESTful API Design.
+
+### Core Stack
+
+**Languages:** Python, TypeScript, JavaScript, SQL  
+**AI & Deep Learning:** PyTorch, TensorFlow, Hugging Face, Pandas, NumPy, Scikit-Learn  
+**Web & Database:** Django, React, Next.js, PostgreSQL, Docker  
+
+### Selected Projects
+
+**DementiaNext**  
+`Next.js` | `Django` | `PyTorch` | `GANs` | `RAG`  
+Architected an end-to-end AI diagnostic and companion system. Built a deep learning pipeline utilizing GANs and diagnostic classifiers, integrated with a RAG-based conversational engine served via a Django REST API and a Next.js frontend.
+
+**[Your Second AI Project Name]**  
+`Python` | `TensorFlow` | `Computer Vision`  
+[Replace this with a 2-line description of another AI project. Focus on the core problem solved, the specific model architectures used (e.g., YOLO, ResNet), and the final impact or performance metrics achieved.]
+
+**[Your Third Project Name]**  
+`React` | `Django` | `PostgreSQL`  
+[Replace this with a 2-line description of another project. Highlight your full-stack capabilities, the system architecture, database design choices, and how the application was deployed.]
+
+---
+
+<br />
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-</p>
-
-**AI & Data Science:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-</p>
-
-**Tools & Databases:**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-</p>
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M-Owaisis&show_icons=true&theme=radium&hide_border=true" alt="Owais's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Owaisis&theme=radium&hide_border=true" alt="Owais's Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Owaisis&layout=compact&theme=radium&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=M-Owaisis&show_icons=true&theme=transparent&hide_border=true&title_color=aaaaaa&text_color=888888&icon_color=aaaaaa" alt="Owais's GitHub stats" />
 </p>
